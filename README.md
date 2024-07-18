@@ -1,9 +1,4 @@
-
-<!--
-**joaocarlosxsantos/joaocarlosxsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-
-##👋 Hi there! I'm João Carlos.
+👋 Hi there! I'm João Carlos.
 
 I'm a passionate IT professional and aspiring developer with a focus on web technologies. I enjoy crafting solutions using Python and Node.js, and I'm always eager to explore new tools and techniques.
 

@@ -42,7 +42,7 @@
 
 <div align="left">
   <a href="https://portifolio-ashy-psi-11.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portif%C3%B3lio&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jjoaocarlos/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
